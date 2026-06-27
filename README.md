@@ -14,7 +14,7 @@ Nearby chat concept for local, community, or proximity-based conversations.
 
 Ecosphere Nearby Chat is a nearby chat project in the TheAdhithyanKR/ecosphere-nearby-chat repository. Nearby chat app for real-time conversations within a 1 km radius using Next.js, geolocation, and WebSockets.
 
-The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is $(@{Path=package.json; Json=}.Path), and the commands below are taken from its scripts.
+The README was written from the repository contents, including its manifest files, source tree, and available project metadata. The primary manifest is `package.json`, and the commands below are taken from its scripts.
 
 ## Key Features
 
